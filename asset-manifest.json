@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/porfolioWebsite/static/css/main.59a8e618.css",
+    "main.js": "/porfolioWebsite/static/js/main.26cb4a40.js",
+    "static/media/cv.pdf": "/porfolioWebsite/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/porfolioWebsite/static/media/me.1f23802c58bb6d00d350.png",
+    "static/media/mental_health.jpg": "/porfolioWebsite/static/media/mental_health.e4f8296a66f95a16eb21.jpg",
+    "static/media/magic-ball.png": "/porfolioWebsite/static/media/magic-ball.2fd0b1fd046c4c6c4531.png",
+    "static/media/matching-game.png": "/porfolioWebsite/static/media/matching-game.b67bf23fc5654cd3e9a8.png",
+    "static/media/me-about.jpg": "/porfolioWebsite/static/media/me-about.54793a1d4f45aa490201.jpg",
+    "static/media/ecommarce.jpg": "/porfolioWebsite/static/media/ecommarce.67fc1526af6f38f72a4c.jpg",
+    "static/media/google-map.jpg": "/porfolioWebsite/static/media/google-map.aa8a977603f9568b0add.jpg",
+    "static/media/react-ecommarce.jpg": "/porfolioWebsite/static/media/react-ecommarce.38b48d5ce91e1b3170b1.jpg",
+    "index.html": "/porfolioWebsite/index.html",
+    "main.59a8e618.css.map": "/porfolioWebsite/static/css/main.59a8e618.css.map",
+    "main.26cb4a40.js.map": "/porfolioWebsite/static/js/main.26cb4a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a8e618.css",
+    "static/js/main.26cb4a40.js"
+  ]
+}
